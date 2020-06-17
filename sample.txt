@@ -3,3 +3,4 @@ add more sample.txt
 あ
 add sample.txt
 add sample.txt
+UPDATE sample.txt
