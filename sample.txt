@@ -4,3 +4,4 @@ add more sample.txt
 add sample.txt
 add sample.txt
 UPDATE sample.txt
+こんにちわ
